@@ -1,6 +1,7 @@
 # BSSDH_2025_workshop_data
 Data for workshops in [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/)
 
+**Repository:** https://github.com/LNB-DH/BSSDH_2025_workshop_data
 
 
 ## CORPUS OVERVIEW
