@@ -26,7 +26,7 @@ Data for workshops in [Baltic Summer School of Digital Humanities 2025](https://
 |--------|------|------|
 | Token Count (words) | 5.37 million | 0.5 million |
 | Issue Count | 359 issues | 18 issues |
-| Segment (article) Count | 33,124 | 5,510 |
+| Segment (Article <=> File) Count | 4,597 | 419 |
 | Language | German | English |
 | Script | Fraktur | Modern |
 
