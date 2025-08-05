@@ -2,9 +2,13 @@
 
 ## RigascheZeitung_samples
 
+Zipped_folder URL: https://github.com/LNB-DH/BSSDH_2025_workshop_data/raw/refs/heads/main/data/Rigasche_Zeitung_1918_1919.zip
+
+
 This subfolder contains a sample dataset from the Rigasche Zeitung newspaper, structured as follows:
 
 ### Structure
+
 - **2 year folders**: `1918/` and `1919/`
 - **4 complete issues** from two specific newspaper editions:
   - `rzei1918s01n062/` (Issue 62, 1918)
